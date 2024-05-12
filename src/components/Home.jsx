@@ -1,5 +1,6 @@
 import "./Home.css";
 import Footer from "./Footer";
+import logo from '../assets/play_store_512.png';
 
 function Home() {
   return (
@@ -7,7 +8,7 @@ function Home() {
       <div>
         <a href="">
           <img
-            src={"src/assets/play_store_512.png"}
+            src={logo}
             className="logo"
             alt="macau logo"
           />
@@ -21,7 +22,7 @@ function Home() {
         </p>
       </div>
       <div className="card">
-        <a href="src\assets\macau_app\app-release.apk" download>
+        <a href= '/macau_app/app-release.apk' download>
           Download apk
         </a>
         <p className="read-the-docs">
