@@ -9,7 +9,7 @@ function Home() {
           <img
             src={"src/assets/play_store_512.png"}
             className="logo"
-            alt="Vite logo"
+            alt="macau logo"
           />
         </a>
       </div>
