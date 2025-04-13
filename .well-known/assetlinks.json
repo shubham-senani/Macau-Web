@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.skippersenani.macau",
+      "sha256_cert_fingerprints": [
+        "9E:55:5E:A6:BB:32:00:02:FB:F4:FF:07:8E:DF:FD:4C:21:93:1C:1A:A0:CD:BA:E8:A3:A9:CC:AC:87:F9:81:E8"
+      ]
+    }
+  }
+]
